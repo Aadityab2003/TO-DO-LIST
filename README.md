@@ -14,3 +14,13 @@ This project helps users manage daily tasks efficiently with an intuitive UI.
 ---
 
 ## 📂 Project Structure
+To-Do-List/
+│── public/ # Static assets
+│── src/ # React components
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── components/
+│── index.html
+│── package.json
+│── vite.config.js
+│── README.md
